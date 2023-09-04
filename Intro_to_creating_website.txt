@@ -34,16 +34,19 @@
  to get yourself that domain name
  
  Step 2 :
- Then go to servage then in websites, add you website
- 
+ Then go to servage then in websites, add you website. 
+
  Step 3 :
+ map the servage name servers to godaddy
+ 
+ Step 4 :
  once the website is added for to files and FTP. Here you will be able to see 
  your hostname.
  
- Step 4 :
+ Step 5 :
  Click on ADD and type your usr/pass. You will see your user in the list
  
- Step 5 :
+ Step 6 :
  Then click on edit. You will see a lost of folder made default by your
  hosting service provider. 
  
